@@ -1,0 +1,16 @@
+C:\Users\Win10\source\repos\SinemaYönetimSistemi\bin\Debug\net6.0-windows\SinemaYönetimSistemi.exe
+C:\Users\Win10\source\repos\SinemaYönetimSistemi\bin\Debug\net6.0-windows\SinemaYönetimSistemi.deps.json
+C:\Users\Win10\source\repos\SinemaYönetimSistemi\bin\Debug\net6.0-windows\SinemaYönetimSistemi.runtimeconfig.json
+C:\Users\Win10\source\repos\SinemaYönetimSistemi\bin\Debug\net6.0-windows\SinemaYönetimSistemi.dll
+C:\Users\Win10\source\repos\SinemaYönetimSistemi\bin\Debug\net6.0-windows\SinemaYönetimSistemi.pdb
+C:\Users\Win10\source\repos\SinemaYönetimSistemi\obj\Debug\net6.0-windows\SinemaYönetimSistemi.Form1.resources
+C:\Users\Win10\source\repos\SinemaYönetimSistemi\obj\Debug\net6.0-windows\SinemaYönetimSistemi.csproj.GenerateResource.cache
+C:\Users\Win10\source\repos\SinemaYönetimSistemi\obj\Debug\net6.0-windows\SinemaYönetimSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\source\repos\SinemaYönetimSistemi\obj\Debug\net6.0-windows\SinemaYönetimSistemi.AssemblyInfoInputs.cache
+C:\Users\Win10\source\repos\SinemaYönetimSistemi\obj\Debug\net6.0-windows\SinemaYönetimSistemi.AssemblyInfo.cs
+C:\Users\Win10\source\repos\SinemaYönetimSistemi\obj\Debug\net6.0-windows\SinemaYönetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\SinemaYönetimSistemi\obj\Debug\net6.0-windows\SinemaYönetimSistemi.dll
+C:\Users\Win10\source\repos\SinemaYönetimSistemi\obj\Debug\net6.0-windows\refint\SinemaYönetimSistemi.dll
+C:\Users\Win10\source\repos\SinemaYönetimSistemi\obj\Debug\net6.0-windows\SinemaYönetimSistemi.pdb
+C:\Users\Win10\source\repos\SinemaYönetimSistemi\obj\Debug\net6.0-windows\SinemaYönetimSistemi.genruntimeconfig.cache
+C:\Users\Win10\source\repos\SinemaYönetimSistemi\obj\Debug\net6.0-windows\ref\SinemaYönetimSistemi.dll
